@@ -10,7 +10,7 @@ body {
     "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f7dded;
+  background-color: #f1eeee;
   color: #333;
   line-height: 1.6;
   margin: 0;
@@ -88,7 +88,7 @@ body {
 
 .page {
   flex: 1;
-  padding: 0 0 2rem 0; /* only bottom padding */
+  padding: 2rem 0;
 }
 
 .container {
